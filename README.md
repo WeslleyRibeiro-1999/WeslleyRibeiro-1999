@@ -1,5 +1,5 @@
 ### Hey! I'm Weslley Ribeiro
-- 📚 I'm studying System Analisys and Development
+- 📚 I'm studying System Analisys and Development at Faculdade Impacta de Tecnologia
 ##
 <div align="center">
   <a href="https://github.com/WeslleyRibeiro-1999">
