@@ -5,28 +5,21 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 
-- 🎓 &nbsp; Studying System Analisys and Development at Faculdade Impacta of Tecnologia.
+- 🎓 &nbsp; Studying System Analisys and Development at Faculdade Impacta of Technology.
 
 - 🌱 &nbsp; Learning about Cloud Tech, Systems Development.
 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Golang | Postgresql | MySQL
+- 💻 &nbsp; Python | Golang | Postgresql | MySQL | Docker🐳
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Kotlin
 
-<!--
-- 🛢 &nbsp; MySQL | MongoDB
-- 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
-- 🖥 &nbsp; Illustrator| Photoshop | InDesign
--->
 
+<h3>🛠 Learning</h3>
 
-
-<h3>🛠 To Learn</h3>
-
-- 🔧 &nbsp; AWS | Docker🐳 | Microservices
+- 🔧 &nbsp; AWS | CI-CD | Microservices | Design patterns
 
 <div align="right">
   <a href="https://www.instagram.com/weslley_pk" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
