@@ -1,7 +1,7 @@
 ## Hey! I'm Weslley Ribeiro
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<h3> 🧑🏽  About Me </h3>
+<h3> 👨‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 
@@ -10,16 +10,16 @@
 - 🌱 &nbsp; Learning about Cloud Tech, Systems Development.
 
 
-<h3>🛠 Tech Stack</h3>
+<h3>🛠 Back-end Stack</h3>
 
-- 💻 &nbsp; Python | Golang | Postgresql | MySQL | Docker🐳
+- 💻 &nbsp; Golang | Python | Postgresql | MySQL | Docker | gRPC | Redis | Microservices
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Kotlin
+- 🌐 &nbsp; FastApi | Flask | JavaScript
 
 
 <h3>🛠 Learning</h3>
 
-- 🔧 &nbsp; AWS | CI-CD | Microservices | Design patterns
+- 🔧 &nbsp; AWS | Kafka | Mensseger | Clean Architecture
 
 <div align="right">
   <a href="https://www.instagram.com/weslley_pk" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -31,12 +31,9 @@
 
 <div align="center">
   <a href="https://github.com/WeslleyRibeiro-1999">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeslleyRibeiro-1999&layout=compact&langs_count=7&theme=nightowl"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeslleyRibeiro-1999&layout=compact&langs_count=7&theme=nightowl"/>
 </div>
 <div style="display: inline_block"><br>
 </div>
  
-##
 
-  
-![Snake animation](https://github.com/WeslleyRibeiro-1999/WeslleyRibeiro-1999/blob/output/github-contribution-grid-snake.svg)
